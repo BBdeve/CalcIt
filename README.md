@@ -1,0 +1,2 @@
+# CalcIt
+Calculator aplication project
